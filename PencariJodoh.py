@@ -3,7 +3,7 @@ logo = '''
 ░▄░▒█ ▒█░░▒█ ▒█░▒█ ▒█░░▒█ ▒█▀▀█ 
 ▒█▄▄█ ▒█▄▄▄█ ▒█▄▄▀ ▒█▄▄▄█ ▒█░▒█
 author : Nur Fadilah Zulfi
-github : https://github.com/nurfadilahzulfi
+github : https://github.com/nurfadilahzulfi/PENCARI-JODOH
 
 '''
 print(logo)
